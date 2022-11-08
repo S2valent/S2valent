@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @S2valent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-S2valent/S2valent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, sou Leandro Ponciano, tenho 38 anos.
+Sou estudante de programação segundo modulo do curso técnico.
+Procuro estágio na área de programação, a programação sempre foi uma paixão.
+Meu e-mail poncianofenix@hotmail.com
